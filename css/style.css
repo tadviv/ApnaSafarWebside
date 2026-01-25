@@ -44,7 +44,7 @@ body {
 
 /* ================= HERO ================= */
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("/img/Ho.jpeg") center/cover;
+    background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("/img/ho.jpeg") center/cover;
     height: 60vh;
     display: flex;
     align-items: center;
@@ -453,6 +453,7 @@ footer {
         flex-direction: column;
     }
 }
+
 
 
 
