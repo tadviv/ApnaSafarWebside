@@ -44,13 +44,14 @@ body {
 
 /* ================= HERO ================= */
 
-.hero {
-    background: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)),
-    url("img/bg.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
+    .hero {
+        background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("/img/bg.jpg") center/cover;
+        height: 60vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
 
 .hero-content {
     color: white;
@@ -453,5 +454,6 @@ footer {
         flex-direction: column;
     }
 }
+
 
 
