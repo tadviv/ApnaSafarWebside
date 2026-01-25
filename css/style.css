@@ -68,7 +68,7 @@ body{
 
 .hero{
     background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),
-    url("/img/backgroung.jpeg") center/cover;
+    url("/img/bg.jpeg") center/cover;
     height:60vh;
     display:flex;
     align-items:center;
@@ -346,3 +346,4 @@ footer:hover{
         height:auto;
     }
 }
+
