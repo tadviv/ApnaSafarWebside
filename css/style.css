@@ -45,7 +45,7 @@
     /* HERO */
 
     .hero {
-        background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("ho.jpg") center/cover;
+        background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("img/Hero.jpeg") center/cover;
         height: 60vh;
         display: flex;
         align-items: center;
